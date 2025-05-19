@@ -43,7 +43,6 @@ These are some of the technologies and languages I’ve worked with:
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=M7snv2017&layout=compact&theme=github_dark)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=M7snv2017&theme=github)
 
 ---
 ## 🔥 GitHub Stats
@@ -52,5 +51,3 @@ These are some of the technologies and languages I’ve worked with:
 ## ⚡ Recent Activity
 [![GitHub Streak](https://streak-stats.demolab.com/?user=M7snv2017&theme=dark)](https://github.com/M7snv2017)
 
-## 💻 Top Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M7snv2017&layout=compact)](https://github.com/M7snv2017)
