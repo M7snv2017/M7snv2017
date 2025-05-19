@@ -41,12 +41,12 @@ These are some of the technologies and languages I’ve worked with:
 
 ---
 #### 📊 GitHub Stats  
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=M7snv2017&show_icons=true&theme=dark)](https://github.com/M7snv2017)  
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=M7snv2017&show_icons=true&theme=dark)](https://github.com/M7snv2017) 
 
 #### ⚡ Streak Stats  
-[![GitHub Streak](https://streak-stats.demolab.com/?user=M7snv2017&theme=onedark)](https://github.com/M7snv2017)  
+[![GitHub Streak](https://streak-stats.demolab.com/?user=M7snv2017&theme=dark)](https://github.com/M7snv2017)
 
 #### 💻 Top Languages  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M7snv2017&layout=compact&theme=merko)](https://github.com/M7snv2017)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M7snv2017&layout=compact&theme=dark)](https://github.com/M7snv2017)  
 
 
