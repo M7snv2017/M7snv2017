@@ -62,7 +62,7 @@ Thank you for visiting my profile — stay tuned for my upcoming projects!
   
   <!-- Databases & Tools -->
   <a href="https://dotnet.microsoft.com" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/48/000000/net-framework.png" style="background-color:white; border-radius:5px; padding:2px;" alt="dotnet" width="40" height="40"/> </a>
-  <a href="https://unity.com" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/ios-filled/50/000000/unity.png" style="background-color:white; border-radius:5px; padding:2px;" alt="unity" width="40" height="40"/> </a>
+  <a href="https://unity.com" target="_blank" rel="noreferrer" style="background-color:white;"> <img src="https://img.icons8.com/ios-filled/50/000000/unity.png" style="background-color:white; border-radius:5px; padding:2px;" alt="unity" width="40" height="40"/> </a>
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" style="background-color:white; border-radius:5px; padding:2px;" alt="mssql" width="40" height="40"/> </a>
   <a href="https://www.mysql.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
   <a href="https://git-scm.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
