@@ -11,20 +11,18 @@ Thank you for visiting my profile — stay tuned for my upcoming projects!
 
 ---
 
-## 📄 About Me
+### 📄 About Me
 
-- 💻 **CS Student** | .NET & AI Enthusiast | Problem Solver
-- 🔭 Currently working on: **AI/ML project, website using MVC in C#**
-- 🌱 Learning: ** AI using LLM, Advanced .NET Core**
+-  **CS Student** | .NET & AI Enthusiast | Problem Solver
+-  Currently working on: **AI/ML project, website using MVC in C#**
+-  Learning: **AI using LLM, Advanced .NET Core**
 
 ---
 
 ### ✉️ Contact
 
-**WhatsApp:** [+966 56 902 9105](https://wa.me/966569029105)  
-**Email:**    [m7sn9640@gmail.com](mailto:m7sn9640@gmail.com)  
-
-
+- **WhatsApp:** [+966 56 902 9105](https://wa.me/966569029105)  
+- **Email:**    [m7sn9640@gmail.com](mailto:m7sn9640@gmail.com)  
 
 ---
 
