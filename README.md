@@ -57,9 +57,8 @@ Thank you for visiting my profile — stay tuned for my upcoming projects!
   <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
   
   <!-- Web Frameworks -->
-  <a href="https://vuejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png" style="background-color:white; border-radius:5px; padding:2px;" alt="bootstrap" width="40" height="40"/> </a>
-  
+  <a href="https://dotnet.microsoft.com" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" style="background-color:white; padding:5px; border-radius:5px;" alt="dotnet" width="40" height="40"/> </a>
+  <a href="https://unity.com" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" style="background-color:white; padding:5px; border-radius:5px;" alt="unity" width="40" height="40"/> </a>
   <!-- Databases & Tools -->
   <a href="https://dotnet.microsoft.com" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/48/000000/net-framework.png" style="background-<a href="https://unity.com" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" style="background-color:white; padding:5px; border-radius:5px;" alt="unity" width="40" height="40"/> </a>
 
