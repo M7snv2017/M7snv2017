@@ -1,8 +1,13 @@
 
 ### 👋 Hello and Welcome to My GitHub Profile! 
 
-I'm **Abdulmohsen**, a passionate Computer Science student in .NET, C#, and AI technologies.  
-Thank you for visiting my profile — feel free to explore my projects and contributions!
+I'm **Abdulmohsen**, a Computer Science student.
+currently focus on:
+- c# programming & .NET ecosystem
+- Web development
+- AI technologies.
+
+Thank you for visiting my profile — stay tuned for my upcoming projects!
 
 ---
 
@@ -50,7 +55,7 @@ Thank you for visiting my profile — feel free to explore my projects and contr
 
 ### 📞 Connect Me
 
-<div align="left" style="display: flex; gap: 15px; flex-wrap: wrap; align-items: center;"> 
+<div align="left" style="display: flex; gap: 50px; flex-wrap: wrap; align-items: center;"> 
 - 📧 Email:<a href="mailto:m7sn9640@gmail.com"> m7sn9640@gmail.com  </a>
 - 💬 WhatsApp:  <a href="https://wa.me/966569029105">+966 56 902 9105</a>
   
