@@ -25,7 +25,15 @@ Thank you for visiting my profile — stay tuned for my upcoming projects!
 - 📧 Email:<a href="mailto:m7sn9640@gmail.com"> m7sn9640@gmail.com  </a>
   <br>
 - 💬 WhatsApp:  <a href="https://wa.me/966569029105">+966 56 902 9105</a>
+  </div>
+## 📩 Contact
+
+<div align="left" style="font-size: 14px; line-height: 1.8; font-family: 'Segoe UI', sans-serif;">
   
+**Email:** [m7sn9640@gmail.com](mailto:m7sn9640@gmail.com)  
+**WhatsApp:** [+966 56 902 9105](https://wa.me/966569029105)  
+
+
 </div>
 
 ---
