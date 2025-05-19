@@ -49,14 +49,14 @@ These are some of the technologies and languages I’ve worked with:
 
 -----
 
-#👋 Hello and Welcome to My GitHub Profile! 
+## 👋 Hello and Welcome to My GitHub Profile! 
 
 I'm **Abdulmohsen**, a passionate Computer Science student in .NET, C#, and AI technologies.  
 Thank you for visiting my profile — feel free to explore my projects and contributions!
 
 ---
 
-## 🚀 About Me
+### 🚀 About Me
 
 - 💻 **CS Student** | .NET & AI Enthusiast | Problem Solver
 - 🔭 Currently working on: **AI/ML project, website using MVC in C#**
@@ -64,29 +64,29 @@ Thank you for visiting my profile — feel free to explore my projects and contr
 
 ---
 
-## 🛠️ Tech Stack
+### 🛠️ Tech Stack
 
-### Programming Languages
+#### Programming Languages
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-### Web Frameworks
+#### Web Frameworks
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### Databases & Tools
+#### Databases & Tools
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
-![MS SQL](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![MS SQL](https://img.shields.io/badge/MS_SQL-CC2927?style=for-the-badge&logo=sqlite&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-## 📊 GitHub Analytics
+### 📊 GitHub Analytics
 
 <div align="center" style="display: flex; flex-wrap: wrap; gap: 50px; justify-content: center;">
 
@@ -98,12 +98,13 @@ Thank you for visiting my profile — feel free to explore my projects and contr
 
 ---
 
-## 📞 Connect Me
+### 📞 Connect Me
 
 <p align="left">
   <a href="mailto:m7sn9640@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+  
   <a href="https://wa.me/966569029105">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
