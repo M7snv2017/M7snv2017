@@ -21,8 +21,8 @@ Thank you for visiting my profile — stay tuned for my upcoming projects!
 
 ### ✉️ Contact
 
-**Email:**    [m7sn9640@gmail.com](mailto:m7sn9640@gmail.com)  
 **WhatsApp:** [+966 56 902 9105](https://wa.me/966569029105)  
+**Email:**    [m7sn9640@gmail.com](mailto:m7sn9640@gmail.com)  
 
 
 
