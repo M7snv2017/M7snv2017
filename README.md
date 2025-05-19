@@ -21,7 +21,7 @@ Thank you for visiting my profile — stay tuned for my upcoming projects!
 
 ### 📞 Connect Me
 
-<div align="left" style="display: flex; gap: 50px; flex-wrap: wrap; align-items: center;"> 
+<div align="left" > 
 - 📧 Email:<a href="mailto:m7sn9640@gmail.com"> m7sn9640@gmail.com  </a>
   <br>
 - 💬 WhatsApp:  <a href="https://wa.me/966569029105">+966 56 902 9105</a>
