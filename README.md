@@ -66,7 +66,7 @@ Thank you for visiting my profile — feel free to explore my projects and contr
 
 ### 🛠️ Tech Stack
 
-#### Programming Languages
+#### Programming Languages 1
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -85,14 +85,32 @@ Thank you for visiting my profile — feel free to explore my projects and contr
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
+### Programming Languages 2
+[![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://dotnet.microsoft.com/en-us/languages/csharp)
+[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
+[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net)
 
+### Web Frameworks
+[![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)](https://vuejs.org)
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com)
+
+### Databases & Tools
+[![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://dotnet.microsoft.com)
+[![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)](https://unity.com)
+[![MS SQL](https://img.shields.io/badge/MS_SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)](https://www.microsoft.com/en-us/sql-server)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com)
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
+---
 ### 📊 GitHub Analytics
 
 <div align="center" style="display: flex; flex-wrap: wrap; gap: 50px; justify-content: center;">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=M7snv2017&show_icons=true&theme=radical&hide_border=true)](https://github.com/M7snv2017)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=M7snv2017&layout=compact&theme=radical&hide_border=true)](https://github.com/M7snv2017)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=M7snv2017&theme=radical&hide_border=true)](https://github.com/M7snv2017)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=M7snv2017&show_icons=true&theme=dark)](https://github.com/M7snv2017) 
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=M7snv2017&theme=dark)](https://github.com/M7snv2017)
+
 
 </div>
 
@@ -100,15 +118,15 @@ Thank you for visiting my profile — feel free to explore my projects and contr
 
 ### 📞 Connect Me
 
-<p align="left">
+<div align="left">
   <a href="mailto:m7sn9640@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   
-  <a href="https://wa.me/966569029105">
+  <a href="https://wa.me/966569029105" style="margin-left: 20px">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
-</p>
+</div>
 
 ---
 
