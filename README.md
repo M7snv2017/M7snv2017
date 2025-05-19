@@ -49,4 +49,7 @@ These are some of the technologies and languages I’ve worked with:
 #### 💻 Top Languages  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M7snv2017&layout=compact&theme=dark)](https://github.com/M7snv2017)  
 
-
+#### 💻 **My Actual Top Languages**  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M7snv2017&hide=html,css,jupyter%20notebook&layout=compact&theme=radical)](https://github.com/M7snv2017)
+-
+[![Recent Activity](https://github-readme-stats.vercel.app/api/wakatime?username=M7snv2017&theme=dark)](https://github.com/M7snv2017)
