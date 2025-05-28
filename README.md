@@ -59,9 +59,9 @@ Thank you for visiting my profile — stay tuned for my upcoming projects!
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="azure" width="40" height="40"/>
   </a>
   <a href="https://learn.microsoft.com/en-us/azure/cognitive-services/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/f/f0/Artificial_Intelligence_logo_notext.svg" alt="AI" width="40" height="40" />
-  </a>
-  <span style="margin-left: 10px; font-size: 16px;">Exploring AI with Microsoft Azure (AI-900)</span>
+  https://upload.wikimedia.org/wikipedia/commons/f/f0/Artificial_Intelligence_logo_notext.svg
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f0/Artificial_Intelligence_logo_notext.svg" alt="AI" width="40" height="40" />
+
 </p>
 
 
