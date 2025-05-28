@@ -14,8 +14,7 @@ Thank you for visiting my profile - stay tuned for my upcoming projects!
 ### 📄 About Me
 
 -  **CS Student** | .NET & AI Enthusiast | Problem Solver
--  Currently working on: **AI/ML project, website using MVC in C#**
--  Learning: **AI using LLM, Advanced .NET Core**
+-  Currently focusing on: **AI/ML project, website using MVC in C#**
 
 ---
 
