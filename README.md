@@ -60,7 +60,7 @@ Thank you for visiting my profile — stay tuned for my upcoming projects!
   </a>
     
 <span style="font-size: 480px; font-weight: bold; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
-  AI
+  <p>AI</p>
 </span>
 
 
