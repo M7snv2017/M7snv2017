@@ -58,7 +58,6 @@ Thank you for visiting my profile — stay tuned for my upcoming projects!
   <a href="https://learn.microsoft.com/en-us/certifications/azure-ai-fundamentals/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="azure" width="40" height="40"/>
   </a>
-  <a href="https://learn.microsoft.com/en-us/azure/cognitive-services/" target="_blank" rel="noreferrer">
     
 <span style="font-size: 48px; font-weight: bold; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
   AI
