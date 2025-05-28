@@ -52,6 +52,19 @@ Thank you for visiting my profile — stay tuned for my upcoming projects!
   <a href="https://git-scm.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 </p>
 
+### ⌛ Currently Working On
+
+<p align="left">
+  <a href="https://learn.microsoft.com/en-us/certifications/azure-ai-fundamentals/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="azure" width="40" height="40"/>
+  </a>
+  <a href="https://learn.microsoft.com/en-us/azure/cognitive-services/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Artificial_Intelligence_Icon.png" alt="AI" width="40" height="40" />
+  </a>
+  <span style="vertical-align: middle; font-size: 16px;"> Studying AI fundamentals with Microsoft Azure (AI-900)</span>
+</p>
+
+
 
 ### 📊 GitHub Analytics
 
