@@ -52,13 +52,15 @@ Thank you for visiting my profile - stay tuned for my upcoming projects!
   <a href="https://git-scm.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 </p>
 
+---
+
 ### Currently Working On ⌛
 
 <ul>
   <li>Azure with AI</li>
 </ul>
 
-
+---
 
 
 
