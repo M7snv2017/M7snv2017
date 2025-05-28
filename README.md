@@ -59,8 +59,10 @@ Thank you for visiting my profile — stay tuned for my upcoming projects!
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="azure" width="40" height="40"/>
   </a>
   <a href="https://learn.microsoft.com/en-us/azure/cognitive-services/" target="_blank" rel="noreferrer">
-  https://upload.wikimedia.org/wikipedia/commons/f/f0/Artificial_Intelligence_logo_notext.svg
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f0/Artificial_Intelligence_logo_notext.svg" alt="AI" width="40" height="40" />
+<div style="display: flex; align-items: center; gap: 12px; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 36px; font-weight: bold;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f0/Artificial_Intelligence_logo_notext.svg" alt="AI Logo" width="48" height="48">
+  <span style="color: #2c3e50;">AI</span>
+</div>
 
 </p>
 
