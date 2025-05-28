@@ -7,7 +7,7 @@ currently focus on:
 - Web development
 - AI technologies.
 
-Thank you for visiting my profile <li> stay tuned for my upcoming projects!
+Thank you for visiting my profile - stay tuned for my upcoming projects!
 
 ---
 
