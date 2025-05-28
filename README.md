@@ -59,7 +59,7 @@ Thank you for visiting my profile — stay tuned for my upcoming projects!
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="azure" width="40" height="40"/>
   </a>
     
-<span style="font-size: 48px; font-weight: bold; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
+<span style="font-size: 480px; font-weight: bold; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
   AI
 </span>
 
