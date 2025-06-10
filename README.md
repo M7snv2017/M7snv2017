@@ -3,7 +3,7 @@
 
 I'm **Abdulmohsen**, a Computer Science student.
 currently focus on:
-- c# programming & .NET ecosystem
+- .NET ecosystem & c# programming
 - Web development
 - AI technologies.
 
