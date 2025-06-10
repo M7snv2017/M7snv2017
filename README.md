@@ -21,7 +21,7 @@ Thank you for visiting my profile - stay tuned for my upcoming projects!
 ### ⌛ Currently Working On 
 
 <ul>
-  <li>Azure with AI</li>
+  <li>Learning AI (ML)</li>
 </ul>
 
 ---
