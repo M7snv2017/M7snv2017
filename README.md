@@ -14,14 +14,15 @@ Thank you for visiting my profile - stay tuned for my upcoming projects!
 ### 📄 About Me
 
 -  **CS Student** | .NET & AI Enthusiast | Problem Solver
--  Currently focusing on: **AI/ML project, website using MVC in C#**
-
+-  Currently focusing on: **leanning AI/ML project, website using MVC in Laravel**
+  
 ---
 
 ### ⌛ Currently Working On 
 
 <ul>
   <li>Learning AI (ML)</li>
+  <li>Real websites using MVC in Laravel</li>
 </ul>
 
 ---
