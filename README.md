@@ -29,8 +29,9 @@ Thank you for visiting my profile - stay tuned for my upcoming projects!
 
 ### ✉️ Contact
 
-- **WhatsApp:** [+966 56 902 9105](https://wa.me/966569029105)  
 - **Email:**    [m7sn9640@gmail.com](mailto:m7sn9640@gmail.com)  
+- **Linkedin:**    [Abdulmohsen Alqutayfi](https://www.linkedin.com/in/abdulmohsen-alqutayfi-601ab1314?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) 
+- **WhatsApp:** [+966 56 902 9105](https://wa.me/966569029105)  
 
 ---
 
