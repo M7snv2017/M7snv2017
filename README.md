@@ -1,24 +1,25 @@
 
-### 👋 Hello and Welcome to My GitHub Profile! 
+## Welcome to My GitHub Profile
 
-I'm **Abdulmohsen**, a Computer Science student.
+I'm **Abdulmohsen**, Senior Computer Science student.
 currently focus on:
-- .NET ecosystem & c# programming
-- Web development
-- AI technologies.
+- Web Technologies.
+- DeepLearning Technologies.
 
-Thank you for visiting my profile - stay tuned for my upcoming projects!
+stay tuned for my upcoming projects
 
 ---
 
-### 📄 About Me
+## 📄 About Me
 
--  **CS Student** | .NET & AI Enthusiast | Problem Solver
--  Currently focusing on: **leanning AI/ML project, website using MVC in Laravel**
+-  **CS Senior Student** | Web & AI passionate | Problem Solver 
+-  I have worked as backend developer in Laravel Framework
+-  Currently focusing on: **Learning Advance Web Technologies**
+-  Working on Medical AI/DL Graduation Project 
   
 ---
 
-### ⌛ Currently Working On 
+## ⌛ Currently Working On 
 
 <ul>
   <li>Learning AI (ML)</li>
@@ -27,7 +28,7 @@ Thank you for visiting my profile - stay tuned for my upcoming projects!
 
 ---
 
-### ✉️ Contact
+## ✉️ Contact
 
 - **Email:**    [m7sn9640@gmail.com](mailto:m7sn9640@gmail.com)  
 - **Linkedin:**    [Abdulmohsen Alqutayfi](https://www.linkedin.com/in/abdulmohsen-alqutayfi-601ab1314?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) 
@@ -35,7 +36,7 @@ Thank you for visiting my profile - stay tuned for my upcoming projects!
 
 ---
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 ### Programming Languages 
 <p align="left"> 
   
@@ -70,7 +71,7 @@ Thank you for visiting my profile - stay tuned for my upcoming projects!
 
 
 
-### 📊 GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center" style="display: flex; flex-wrap: wrap; gap: 30px; justify-content: center;">
 
