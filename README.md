@@ -49,10 +49,10 @@ Thank you for visiting my profile - stay tuned for my upcoming projects!
   
   <!-- Web Frameworks -->
 ### Web Frameworks
- #### Backend Frameworks
+ - #### Backend Frameworks
  <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="springboot" width="40" height="40"/></a>
  <a href="https://laravel.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg"  style="border-radius:5px;" alt="laravel" width="40" height="40"/></a>
- #### CSS Frameworks  
+ - #### CSS Frameworks  
  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" style="border-radius:5px;" alt="bootstrap" width="40" height="40"/> </a>
  <a href="https://tailwindcss.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" style="border-radius:5px;" alt="tailwindcss" width="40" height="40"/></a>
   
