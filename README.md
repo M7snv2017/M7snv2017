@@ -28,7 +28,7 @@ stay tuned for my upcoming projects
 ---
 
 ## 🛠️ Tech Stack
-### Programming Languages 
+### Programming Languages & Technologies
 <p align="left"> 
   
   <!-- Frameworks & Programming Languages -->
