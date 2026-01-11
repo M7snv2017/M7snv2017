@@ -39,6 +39,10 @@ stay tuned for my upcoming projects
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
   <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
+    <a href="https://pytorch.org" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg"
+         style="border-radius:5px; margin-left:15px"
+         alt="pytorch" width="40" height="40"/></a>
   
   <!-- Web Frameworks -->
 ### Web Frameworks
@@ -59,8 +63,34 @@ stay tuned for my upcoming projects
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" style="background-color:white; padding:5px; border-radius:5px;" alt="mssql" width="40" height="40"/> </a>
   <a href="https://www.mysql.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
   <a href="https://git-scm.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+  <a href="https://www.cloudflare.com" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cloudflare/cloudflare-original.svg"
+       style="border-radius:5px; margin-left:15px"
+       alt="cloudflare" width="40" height="40"/>
+</a>
+
+<a href="https://tailscale.com" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/tailscale.svg"
+       style="background-color:white; padding:5px; border-radius:5px; margin-left:15px"
+       alt="tailscale" width="40" height="40"/>
+</a>
 </p>
 
+<!-- Operating Systems -->
+### Operating Systems
+<p align="left">
+  <a href="https://ubuntu.com" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg"
+         style="border-radius:5px; margin-left:15px"
+         alt="ubuntu" width="40" height="40"/>
+  </a>
+
+  <a href="https://www.debian.org" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-plain.svg"
+         style="border-radius:5px; margin-left:15px"
+         alt="debian" width="40" height="40"/>
+  </a>
+</p>
 
 ---
 
