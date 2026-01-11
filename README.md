@@ -45,6 +45,10 @@ stay tuned for my upcoming projects
  - #### Backend Frameworks
  <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" style="border-radius:5px; margin-left:15px" alt="springboot" width="40" height="40"/></a>
  <a href="https://laravel.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg"  style="border-radius:5px; margin-left:15px" alt="laravel" width="40" height="40"/></a>
+   <a href="https://fastapi.tiangolo.com" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg"
+         style="border-radius:5px; margin-left:15px"
+         alt="fastapi" width="40" height="40"/></a>
  - #### CSS Frameworks  
  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" style="border-radius:5px; margin-left:15px" alt="bootstrap" width="40" height="40"/> </a>
  <a href="https://tailwindcss.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" style="border-radius:5px; margin-left:15px" alt="tailwindcss" width="40" height="40"/></a>
