@@ -72,10 +72,11 @@ stay tuned for my upcoming projects
 </a>
 
 <a href="https://tailscale.com" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/tailscale.svg"
-       style="background-color:#ffffff; fill:#1E40AF; padding:6px; border-radius:6px; margin-left:15px"
+  <img src="https://img.icons8.com/color/48/tailscale.png"
+       style="border-radius:6px; margin-left:15px"
        alt="tailscale" width="40" height="40"/>
 </a>
+
 
 
 </p>
