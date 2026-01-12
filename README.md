@@ -71,9 +71,14 @@ stay tuned for my upcoming projects
        alt="cloudflare" width="40" height="40"/>
 </a>
 
-<a href="https://tailscale.com">
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/tailscale.svg" width="40" />
+<a href="https://tailscale.com" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/tailscale.svg"
+       alt="tailscale"
+       width="40"
+       height="40"
+       style="background-color:#ffffff; padding:6px; border-radius:6px;"/>
 </a>
+
 
 
 
