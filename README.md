@@ -81,11 +81,12 @@ stay tuned for my upcoming projects
 <!-- Operating Systems -->
 ### Operating Systems
 <p align="left">
-  <a href="https://ubuntu.com" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg"
-         style="border-radius:5px; margin-left:15px"
-         alt="ubuntu" width="40" height="40"/>
-  </a>
+<a href="https://ubuntu.com" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-original.svg"
+       style="border-radius:5px; margin-left:15px"
+       alt="ubuntu" width="40" height="40"/>
+</a>
+
 
   <a href="https://www.debian.org" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-plain.svg"
