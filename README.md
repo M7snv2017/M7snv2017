@@ -61,7 +61,6 @@ stay tuned for my upcoming projects
   
   
   <!-- Databases & Tools -->
-  ### Databases & Tools
 ### Databases & Tools
 
 <p align="left">
@@ -76,9 +75,9 @@ stay tuned for my upcoming projects
          alt="mysql" width="40" height="40"/>
   </a>
 
-  <a href="https://tailscale.com" target="_blank" rel="noreferrer">
+<a href="https://tailscale.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/tailscale.svg"
-         style="background-color:white; padding:6px; border-radius:6px;"
+         style="background-color:white; padding:5px; border-radius:5px;"
          alt="tailscale" width="40" height="40"/>
   </a>
 
