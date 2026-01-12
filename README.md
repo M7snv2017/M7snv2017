@@ -71,11 +71,10 @@ stay tuned for my upcoming projects
        alt="cloudflare" width="40" height="40"/>
 </a>
 
-<a href="https://tailscale.com" target="_blank" rel="noreferrer">
-  <img src="https://img.icons8.com/color/48/tailscale.png"
-       style="background-color:white; padding:6px; border-radius:6px; margin-left:15px"
-       alt="tailscale" width="40" height="40"/>
+<a href="https://tailscale.com">
+  <img src="https://img.shields.io/badge/Tailscale-5A2EFF?logo=tailscale&logoColor=white" />
 </a>
+
 
 
 
