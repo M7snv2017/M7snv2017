@@ -72,7 +72,7 @@ stay tuned for my upcoming projects
 </a>
 
 <a href="https://tailscale.com">
-  <img src="https://img.shields.io/badge/Tailscale-5A2EFF?logo=tailscale&logoColor=white" />
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/tailscale.svg" width="40" />
 </a>
 
 
