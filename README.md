@@ -73,9 +73,10 @@ stay tuned for my upcoming projects
 
 <a href="https://tailscale.com" target="_blank" rel="noreferrer">
   <img src="https://img.icons8.com/color/48/tailscale.png"
-       style="border-radius:6px; margin-left:15px"
+       style="background-color:white; padding:6px; border-radius:6px; margin-left:15px"
        alt="tailscale" width="40" height="40"/>
 </a>
+
 
 
 
