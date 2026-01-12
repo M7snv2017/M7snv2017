@@ -76,10 +76,13 @@ stay tuned for my upcoming projects
   </a>
 
 <a href="https://tailscale.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/tailscale.svg"
-         style="background-color:white; padding:5px; border-radius:5px;"
-         alt="tailscale" width="40" height="40"/>
-  </a>
+  <img src="https://cdn.simpleicons.org/tailscale/white"
+       alt="tailscale" width="40" height="40"/>
+</a>
+<a href="https://tailscale.com" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/--white?logo=tailscale&logoColor=black&style=social" 
+       alt="tailscale" height="40"/>
+</a>
 
   <a href="https://git-scm.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
