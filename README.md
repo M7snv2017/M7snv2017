@@ -72,18 +72,8 @@ stay tuned for my upcoming projects
 </a>
 
 <a href="https://tailscale.com" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/tailscale.svg"
-       alt="tailscale"
-       width="40"
-       height="40"
-       style="background-color:#ffffff; padding:6px; border-radius:6px;"/>
+  <img src="https://img.shields.io/badge/Tailscale-5A2EFF?logo=tailscale&logoColor=white" />
 </a>
-
-
-
-
-
-
 </p>
 
 <!-- Operating Systems -->
