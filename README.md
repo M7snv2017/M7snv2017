@@ -63,7 +63,13 @@ stay tuned for my upcoming projects
   <!-- Databases & Tools -->
   ### Databases & Tools
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" style="background-color:white; padding:5px; border-radius:5px;" alt="mssql" width="40" height="40"/> </a>
-  <a href="https://www.mysql.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
+  
+<a href="https://tailscale.com" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/tailscale.svg"
+       style="background-color:white; padding:6px; border-radius:6px; margin-left:15px"
+       alt="tailscale" width="40" height="40"/>
+</a>
+<a href="https://www.mysql.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
   <a href="https://git-scm.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
   <a href="https://www.cloudflare.com" target="_blank" rel="noreferrer">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cloudflare/cloudflare-original.svg"
@@ -71,9 +77,6 @@ stay tuned for my upcoming projects
        alt="cloudflare" width="40" height="40"/>
 </a>
 
-<a href="https://tailscale.com" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/badge/Tailscale-5A2EFF?logo=tailscale&logoColor=white" />
-</a>
 </p>
 
 <!-- Operating Systems -->
